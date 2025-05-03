@@ -7,10 +7,10 @@
 
 ### 👨‍💻 Coding Profiles
 
-- 🔗 [LeetCode: 4ush](https://leetcode.com/4ush)
-- 🔗 [Codeforces: 4ush](https://codeforces.com/profile/alpost_06)
-- 🔗 [GitHub: alpostayush](https://github.com/alpostayush)
-- 🔗 [CodeChef: 4ush](https://www.codechef.com/users/code4yu49)
+- 🔗 [LeetCode: ](https://leetcode.com/4ush)
+- 🔗 [Codeforces: ](https://codeforces.com/profile/alpost_06)
+- 🔗 [GitHub: ](https://github.com/alpostayush)
+- 🔗 [CodeChef:](https://www.codechef.com/users/code4yu49)
 ---
 
 ### 🛠️ Skills
