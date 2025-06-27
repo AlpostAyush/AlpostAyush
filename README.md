@@ -8,7 +8,6 @@
 ### 👨‍💻 Coding Profiles
 
 - 🔗 [LeetCode: ](https://leetcode.com/4ush)
-- 🔗 [Codeforces: ](https://codeforces.com/profile/alpost_06)
 - 🔗 [GitHub: ](https://github.com/alpostayush)
 - 🔗 [CodeChef:](https://www.codechef.com/users/code4yu49)
 ---
@@ -19,10 +18,10 @@
 C, C++, Java, JavaScript, TypeScript, HTML, CSS, SQL, Bash
 
 **Frameworks & Libraries:**  
-React.js, Node.js, Express.js, Bootstrap,Tailwind, Spring Boot 
+React.js, Node.js, Express.js,Tailwind , Spring Boot 
 
 **Databases:**  
-MySQL, MongoDB, postgreSQL
+MySQL, MongoDB, postgreSQL, Oracle
 
 **Tools & Platforms:**  
 Git, GitHub, Linux, VS Code, Postman, Netlify, Vercel 
