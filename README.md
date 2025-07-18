@@ -26,6 +26,7 @@ class Me {
  </tr> 
  </table>
 🐍 GitHub Contribution Snake
-<p align="center"> <img src="https://raw.githubusercontent.com/AlpostAyush/AlpostAyush/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" /> </p>
+![snake gif](https://raw.githubusercontent.com/AlpostAyush/AlpostAyush/output/github-contribution-grid-snake.svg)
+
 👀 Thanks for visiting my profile! <
 <img src="https://count.getloli.com/get/@AlpostAyush?theme=booru-lewd" alt="visitor count" width="72%" /> 
