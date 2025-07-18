@@ -16,7 +16,7 @@ class Me {
   }
 }
 ```
-<img src="https://skillicons.dev/icons?i=js,react,tailwindcss,git,github,c++,c&perline=8" width="100%" /> <table> 
+<img src="https://skillicons.dev/icons?i=js,react,tailwindcss,git,github,cpp,c&perline=8" width="100%" /> <table> 
 <tr> 
 <td width="40%"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlpostAyush&theme=dracula&layout=donut&show_icons=true&hide_border=true" width="100%" />
  </td> 
