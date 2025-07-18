@@ -30,5 +30,4 @@ class Me {
 
 ## 👀 Thanks for visiting my profile! <4
 
-<img src= "./.github/Self-loath.png" alt="rust bro" align="right" width="22%" />
 <img src='https://count.getloli.com/get/@AlpostAyush?theme=booru-lewd' alt='visitor count' width="72%" />
